@@ -31,7 +31,7 @@ I enjoy:
 **Observability:** Datadog, Sentry, Grafana, Loki, CloudWatch  
 **Quality:** PHPUnit, Postman automation, TDD, code reviews  
 
-## My portfolion
+## My portfolio
 [my portfolion](https://docs.google.com/document/d/1B2zd3bp2csU7s7DaRFq9Li8Qni7yzgwaqBBbv3kFgyA/edit?usp=sharing)
 
 ---
