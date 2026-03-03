@@ -3,17 +3,17 @@
 Backend Engineer • System Architect • Team Lead  
 Building durable systems that don’t panic during flash sales 🚀
 
-📍 Luton, UK  
-🔗 LinkedIn: https://linkedin.com/in/alohstanben  
-💻 GitHub: https://github.com/stanleybenjamin  
-📫 Email: alohbenstan@gmail.com  
+ Luton, UK  
+ LinkedIn: https://linkedin.com/in/alohstanben  
+ GitHub: https://github.com/stanleybenjamin  
+ Email: alohbenstan@gmail.com  
 
 ---
 
-## 🧠 What I do
-I’m a backend engineer with **6+ years** of experience building and scaling production systems across **fintech, billing/utility, and e-commerce**.
+## About Me
+I’m a backend engineer with 6+ years of experience building and scaling production systems across **fintech, billing/utility, and e-commerce**.
 
-Right now I’m at **Bumpa**, helping power high-volume merchant sales (including flash-sale traffic spikes) with systems designed for **reliability, performance, and clean architecture**.
+Right now I’m at Bumpa, helping power high-volume merchant sales (including flash-sale traffic spikes) with systems designed for **reliability, performance, and clean architecture.
 
 I enjoy:
 - designing systems that survive real-world load
@@ -31,19 +31,23 @@ I enjoy:
 **Observability:** Datadog, Sentry, Grafana, Loki, CloudWatch  
 **Quality:** PHPUnit, Postman automation, TDD, code reviews  
 
----
-
-## ⚡ Recent highlights
-- 🧾 Centralised fragmented checkout logic into a unified backend layer (more stable payments, fewer failure points)
-- 🧩 Reworked onboarding with event-driven tracking + backend-owned validation (better data correctness)
-- 🌍 Built custom-domain provisioning (registrar integrations + DNS automation + SSL with Caddy)
-- 🧯 Added reliability controls: rate limiting, cache layer, circuit breaker around external dependencies
-- 🔎 Improved Elasticsearch usage for better query performance & search relevance
+## My portfolion
+[my portfolion](https://docs.google.com/document/d/1B2zd3bp2csU7s7DaRFq9Li8Qni7yzgwaqBBbv3kFgyA/edit?usp=sharing)
 
 ---
 
-## 🧰 What I’m currently into
+## Recent highlights
+-  Centralised fragmented checkout logic into a unified backend layer (more stable payments, fewer failure points)
+-  Reworked onboarding with event-driven tracking + backend-owned validation (better data correctness)
+-  Built custom-domain provisioning (registrar integrations + DNS automation + SSL with Caddy)
+-  Added reliability controls: rate limiting, cache layer, circuit breaker around external dependencies
+-  Improved Elasticsearch usage for better query performance & search relevance
+
+---
+
+## What I’m currently into
 - System design that scales without drama
+- Have spent about 200+ hours on Leetcode
 - Reliability patterns (retries, circuit breakers, rate limits, idempotency)
 - Observability + incident reduction
 - Practical architecture for fast-moving teams
@@ -58,4 +62,4 @@ If you’re building products that need to scale (or you just enjoy backend conv
 
 ---
 
-> “Make it work. Make it right. Make it scale.” ✅
+> You don't control what do you not measure
