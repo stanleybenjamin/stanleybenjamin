@@ -1,7 +1,7 @@
 # Hey, I’m Stanley 👋🏽
 
 Backend Engineer • System Architect • Team Lead  
-Building durable systems that don’t panic during flash sales 🚀
+Building durable systems that don’t panic during flash sales
 
  Luton, UK  
  LinkedIn: https://linkedin.com/in/alohstanben  
@@ -11,9 +11,9 @@ Building durable systems that don’t panic during flash sales 🚀
 ---
 
 ## About Me
-I’m a backend engineer with 6+ years of experience building and scaling production systems across **fintech, billing/utility, and e-commerce**.
+I’m a backend engineer with 6+ years of experience building and scaling production systems across fintech, billing/utility, and e-commerce.
 
-Right now I’m at Bumpa, helping power high-volume merchant sales (including flash-sale traffic spikes) with systems designed for **reliability, performance, and clean architecture.
+Right now I’m at Bumpa, helping power high-volume merchant sales (including flash-sale traffic spikes) with systems designed for reliability, performance, and clean architecture.
 
 I enjoy:
 - designing systems that survive real-world load
