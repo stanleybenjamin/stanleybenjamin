@@ -1,6 +1,7 @@
 # Hey, I’m Stanley 👋🏽
 
 Backend Engineer | System Architect | Team Lead  | SaaS | Agentic Engineering 
+
 Building durable systems that don't panic during flash sales
 
 Luton, UK  
