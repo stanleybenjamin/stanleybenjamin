@@ -1,24 +1,25 @@
 # Hey, I’m Stanley 👋🏽
 
-Backend Engineer • System Architect • Team Lead  
-Building durable systems that don’t panic during flash sales
+Backend Engineer | System Architect | Team Lead  | SaaS | Agentic Engineering 
+Building durable systems that don't panic during flash sales
 
- Luton, UK  
- LinkedIn: https://linkedin.com/in/alohstanben  
- GitHub: https://github.com/stanleybenjamin  
- Email: alohbenstan@gmail.com  
+Luton, UK  
+LinkedIn: https://linkedin.com/in/alohstanben  
+GitHub:   https://github.com/stanleybenjamin  
+Email:    alohbenstan@gmail.com  
+Leetcode: https://leetcode.com/u/stanliwise (Try me Best 👀)
 
 ---
 
 ## About Me
-I’m a backend engineer with 6+ years of experience building and scaling production systems across fintech, billing/utility, and e-commerce.
+I’m a software engineer with 6+ years of experience building and scaling production systems across fintech, digital marketing, billing/utility, and e-commerce.
 
-Right now I’m at Bumpa, helping power high-volume merchant sales (including flash-sale traffic spikes) with systems designed for reliability, performance, and clean architecture.
+Right now I'm at Bumpa, helping power high-volume merchant sales (including flash-sale traffic spikes) with systems designed for reliability, performance, and clean architecture.
 
 I enjoy:
 - designing systems that survive real-world load
-- building integrations that don’t break at 2am
-- shipping features end-to-end (from discovery → production)
+- building integrations that don't break at 2am
+- shipping features end-to-end (from discovery -> production)
 - mentoring engineers and improving engineering standards
 
 ---
@@ -32,7 +33,7 @@ I enjoy:
 **Quality:** PHPUnit, Postman automation, TDD, code reviews  
 
 ## My portfolio
-[my portfolion](https://docs.google.com/document/d/1B2zd3bp2csU7s7DaRFq9Li8Qni7yzgwaqBBbv3kFgyA/edit?usp=sharing)
+[my portfolio](https://docs.google.com/document/d/1B2zd3bp2csU7s7DaRFq9Li8Qni7yzgwaqBBbv3kFgyA/edit?usp=sharing)
 
 ---
 
@@ -45,17 +46,19 @@ I enjoy:
 
 ---
 
-## What I’m currently into
-- System design that scales without drama
+## What I'm currently into
+- Highly into AI ATM, exploring MCP, Vector Database, LangChain Tutorial
+- Presently Learning TypeScript for backend development so I can diversify
+- System design (Big on this ATM)
 - Have spent about 200+ hours on Leetcode
 - Reliability patterns (retries, circuit breakers, rate limits, idempotency)
-- Observability + incident reduction
+- Observability + incident reduction ( I have taken courses on Datadog and also grafana)... Now a preacher LOL
 - Practical architecture for fast-moving teams
 
 ---
 
 ## 🤝 Let’s connect
-If you’re building products that need to scale (or you just enjoy backend conversations), I’m always open to connect.
+If you’re building products that need to scale (or you just enjoy software engineering, Leetcode conversations), I'm always open to connect.
 
 - LinkedIn: https://linkedin.com/in/alohstanben  
 - Email: alohbenstan@gmail.com  
