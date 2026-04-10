@@ -8,7 +8,7 @@ Luton, UK
 LinkedIn: https://linkedin.com/in/alohstanben  
 GitHub:   https://github.com/stanleybenjamin  
 Email:    alohbenstan@gmail.com  
-Leetcode: https://leetcode.com/u/stanliwise (Try me Best 👀)
+Leetcode: https://leetcode.com/u/stanliwise (Don't look at my rank 👀)
 
 ---
 
