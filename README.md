@@ -1,69 +1,128 @@
-# Hey, I’m Stanley 👋🏽
+# Stanley Benjamin Aloh
 
-Backend Engineer | System Architect | Team Lead  | SaaS | Agentic Engineering 
+Backend Engineer with 6+ years of experience building reliable product systems across fintech, SaaS, e-commerce, and payments.
 
-Building durable systems that don't panic during flash sales
+Luton, United Kingdom  
+[LinkedIn](https://linkedin.com/in/alohstanben) · [GitHub](https://github.com/stanleybenjamin) · [Email](mailto:alohbenstan@gmail.com)
 
-Luton, UK  
-LinkedIn: https://linkedin.com/in/alohstanben  
-GitHub:   https://github.com/stanleybenjamin  
-Email:    alohbenstan@gmail.com  
-Leetcode: https://leetcode.com/u/stanliwise (Don't look at my rank 👀)
+## About
+
+I work mainly on backend and platform-facing systems with a focus on reliability, performance, and maintainable architecture.
+
+My experience includes payment systems, merchant platforms, onboarding workflows, search, internal tools, and partner integrations. I have worked across both product engineering and platform concerns, from feature delivery to observability, incident reduction, and operational resilience.
+
+## Selected Work
+
+### Bumpa
+E-commerce SaaS platform for African businesses  
+[https://getbumpa.com](https://getbumpa.com)
+
+Worked on checkout reliability, merchant onboarding, OAuth-based integrations, custom domain provisioning, campaign infrastructure, storefront customization, and search improvements.
+
+Highlights:
+- Built custom domain purchase and connection flows with registrar, DNS, and SSL automation
+- Improved checkout reliability under high traffic conditions
+- Refactored campaign workflows to support 300k+ emails and SMS
+- Improved Elasticsearch relevance and performance for global product search
+- Contributed across backend and frontend features using Laravel and Vue.js
+- Currently working on MCP-based internal tooling and agentic workflows
 
 ---
 
-## About Me
-I’m a software engineer with 6+ years of experience building and scaling production systems across fintech, digital marketing, billing/utility, and e-commerce.
+### Parkway Wallet
+Digital wallet and transfer platform  
+[https://wallet.parkway.ng](https://wallet.parkway.ng)
 
-Right now I'm at Bumpa, helping power high-volume merchant sales (including flash-sale traffic spikes) with systems designed for reliability, performance, and clean architecture.
+Built backend features for wallet creation, transfers, KYC, facial verification, statements, real-time notifications, and background processing.
 
-I enjoy:
-- designing systems that survive real-world load
-- building integrations that don't break at 2am
-- shipping features end-to-end (from discovery -> production)
-- mentoring engineers and improving engineering standards
+Highlights:
+- Supported enrollment and wallet creation workflows
+- Integrated identity verification and facial verification using AWS Rekognition
+- Built transaction history and statement functionality
+- Automated operational workflows using queues, schedulers, and workers
+- Contributed to a production platform supporting 15,000+ active wallets
 
 ---
 
-## 🛠️ Toolbox
+### ReadyCash
+Agency banking platform and admin dashboard  
+[https://readycash.parkway.ng](https://readycash.parkway.ng)
+
+Worked on internal financial operations tooling and transaction-heavy dashboard workflows.
+
+Highlights:
+- Developed and maintained the admin dashboard using Laravel and Vue.js
+- Built merchant payment, withdrawal, and transaction features
+- Automated bulk transaction workflows
+- Optimized database performance for high-volume operations
+
+---
+
+### Parkway Rails
+Banking-as-a-Service API suite
+
+Worked on partner-facing fintech infrastructure and API support services.
+
+Highlights:
+- Developed microservices for KYC processing
+- Implemented BVN and NIN watchlist functionality
+- Supported Verve virtual card functionality
+- Contributed to external partner integrations and API issue resolution
+- Prepared integration documentation for partners
+
+---
+
+### Kowope
+Debt tracking and repayment application
+
+A full-stack product built independently from implementation through delivery.
+
+Highlights:
+- Designed and built the application end-to-end
+- Developed repayment workflows, backend logic, and database queries
+- Delivered the product as a complete working application
+
+---
+
+### Mottainai
+Waste management platform and sales interface
+
+Worked across the operational platform and its sales-facing systems.
+
+Highlights:
+- Customized WordPress themes and plugins for business-specific requirements
+- Contributed to the core backend platform
+- Supported selected frontend work and QA
+
+## Open Source
+
+### TOTP
+Time-based OTP package for token generation and validation without persistent token storage  
+[https://github.com/stanleybenjamin/TOTP](https://github.com/stanleybenjamin/TOTP)
+
+### Facial Verification Package
+Facial verification package supporting AWS Rekognition and Exadel CompreFace  
+[https://github.com/stanleybenjamin/compre-parkway](https://github.com/stanleybenjamin/compre-parkway)
+
+## Technologies
+
 **Languages:** PHP, JavaScript, Java, SQL  
-**Backend:** Laravel, CodeIgniter, REST APIs, GraphQL, OAuth, WebSockets  
-**Data & Search:** MySQL/MariaDB, Redis, MongoDB, Elasticsearch  
-**Cloud/DevOps:** Docker, AWS, Azure DevOps, Git, Linux  
-**Observability:** Datadog, Sentry, Grafana, Loki, CloudWatch  
-**Quality:** PHPUnit, Postman automation, TDD, code reviews  
+**Frameworks:** Laravel, Vue.js, CodeIgniter  
+**Data:** MySQL, Redis, MongoDB, Elasticsearch  
+**Infrastructure:** AWS, Docker, Azure DevOps, Linux, Cloudflare  
+**Observability:** Datadog, Grafana, Loki, Sentry, CloudWatch  
+**Practices:** API design, background jobs, system design, observability, reliability engineering
 
-## My portfolio
-[my portfolio](https://docs.google.com/document/d/1B2zd3bp2csU7s7DaRFq9Li8Qni7yzgwaqBBbv3kFgyA/edit?usp=sharing)
+## Current Focus
 
----
+- Reliable distributed systems
+- Payment and workflow architecture
+- Search and backend performance
+- Observability and incident reduction
+- MCP tooling and agentic workflows
 
-## Recent highlights
--  Centralised fragmented checkout logic into a unified backend layer (more stable payments, fewer failure points)
--  Reworked onboarding with event-driven tracking + backend-owned validation (better data correctness)
--  Built custom-domain provisioning (registrar integrations + DNS automation + SSL with Caddy)
--  Added reliability controls: rate limiting, cache layer, circuit breaker around external dependencies
--  Improved Elasticsearch usage for better query performance & search relevance
+## Contact
 
----
+I’m open to connecting around backend engineering, platform design, fintech infrastructure, and product systems.
 
-## What I'm currently into
-- Highly into AI ATM, exploring MCP, Vector Database, LangChain Tutorial
-- Presently Learning TypeScript for backend development so I can diversify
-- System design (Big on this ATM)
-- Have spent about 200+ hours on Leetcode
-- Reliability patterns (retries, circuit breakers, rate limits, idempotency)
-- Observability + incident reduction ( I have taken courses on Datadog and also grafana)... Now a preacher LOL
-- Practical architecture for fast-moving teams
-
----
-
-## 🤝 Let’s connect
-If you’re building products that need to scale (or you just enjoy software engineering, Leetcode conversations), I'm always open to connect.
-
-- LinkedIn: https://linkedin.com/in/alohstanben  
-- Email: alohbenstan@gmail.com  
-
----
-
-> You don't control what do you not measure
+[LinkedIn](https://linkedin.com/in/alohstanben) · [Email](mailto:alohbenstan@gmail.com)
