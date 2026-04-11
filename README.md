@@ -166,7 +166,7 @@ Facial verification package supporting AWS Rekognition and Exadel CompreFace
 ## Technologies
 
 **Languages**  
-PHP, JavaScript, Java, SQL
+PHP, JavaScript, Java, Python, SQL
 
 **Frameworks & Libraries**  
 Laravel, Vue.js, CodeIgniter, WordPress
